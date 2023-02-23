@@ -1,0 +1,4 @@
+rc_key = 6LcrAackAAAAAI-ZqLPIV_O44sIlVyNN7yYLwnhV
+rc_secret_key = 6LcrAackAAAAAJXeYXu9PCAGkk9NL8bM3oH6Rkvn
+
+google = AIzaSyDjqArc6y_GqKxgFufLg2axu0BKYcPcI1Y
